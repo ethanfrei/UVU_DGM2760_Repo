@@ -10,11 +10,13 @@ header {
 }
 
 h1 {
-    color: #fff
+    color: #fff;
+    margin-left: 50px;
 }
 
 h2 {
-    color: #000
+    color: #000;
+    margin-left: 50px;
 }
 
 main {

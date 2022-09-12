@@ -1,0 +1,15 @@
+h1 {
+    color: white;
+    margin-left: 50px;
+}
+header h2 {
+    color: blue;
+    margin-left: 50px;
+}
+
+header {
+    max-width: 474px;
+    margin: 0 auto;
+    background-image: url("../images/inspector.jpg");
+    height: 316px;
+}
